@@ -4,16 +4,15 @@ These are projects for [The Programming Formalisms course](https://github.com/UP
 
 ## Active projects
 
-Team logo                                                                                                                            |Link
--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------
-![](https://github.com/UPPMAX/programming_formalisms/blob/main/docs/project/programming_formalisms_student_team_autumn_2024_logo.png)|[Summer 2024](https://github.com/programming-formalisms/programming_formalisms_project_autumn_2024)
-![](https://github.com/UPPMAX/programming_formalisms/blob/main/docs/project/programming_formalisms_teacher_team_logo_116x116.png)    |[Example project](https://github.com/programming-formalisms/programming_formalisms_example_project)
-
+Description          |Link
+---------------------|--------------------------------------------------------------------------------------------
+Autumn 2024 students |[here](https://github.com/programming-formalisms/programming_formalisms_project_autumn_2024)
+Example project      |[here](https://github.com/programming-formalisms/programming_formalisms_example_project)
 
 ## Former projects
 
-Team logo                                                                                                                              |Link
----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------
-![](https://github.com/UPPMAX/programming_formalisms/blob/main/docs/project/programming_formalisms_student_team_summer_2024_logo.png)  |[Summer 2024](https://github.com/programming-formalisms/programming_formalisms_project_summer_2024)
-![](https://github.com/UPPMAX/programming_formalisms/blob/main/docs/project/programming_formalisms_student_team_autumn_2023_logo.png)  |[Autumn 2023](https://github.com/programming-formalisms/programming_formalisms_project_autumn_2023)
-![](https://github.com/UPPMAX/programming_formalisms/blob/main/docs/project/programming_formalisms_student_team_summer_2023_logo.png)  |[Summer 2023](https://github.com/programming-formalisms/programming_formalisms_project_summer_2023)
+Description          |Link
+---------------------|--------------------------------------------------------------------------------------------
+Summer 2024 students |[here](https://github.com/programming-formalisms/programming_formalisms_project_summer_2024)
+Autumn 2023 students |[here](https://github.com/programming-formalisms/programming_formalisms_project_autumn_2023)
+Summer 2023 students |[here](https://github.com/programming-formalisms/programming_formalisms_project_summer_2023)
